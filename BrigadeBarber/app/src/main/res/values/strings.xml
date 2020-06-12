@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Brigade Barber</string>
+    <string name="home_text">Bienvenue.\n
+Vous pouvez vous connectez ou alors réserver avec votre numéro de téléphone uniquement.</string>
 </resources>
